@@ -1,4 +1,18 @@
+# Test-Release-Workflow
+
 This repository serves as a playground for me to test my JavaScript release workflow.
+
+## Features
+
+* Provides a standard for commit messages.
+* Automatically deploys project to npm and GitHub.
+* Updates `CHANGELOG.md` and `package.json`.
+* Pushes the updates to GitHub.
+
+## Tools
+
+* Commitizen
+* Semantic-release
 
 ## Instructions
 
