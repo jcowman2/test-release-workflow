@@ -1,6 +1,6 @@
 {
   "name": "@jcowman/test-release-workflow",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Experimental package for testing a release workflow.",
   "main": "index.js",
   "scripts": {
@@ -16,5 +16,13 @@
     "commitizen": {
       "path": "./node_modules/cz-conventional-changelog"
     }
+  },
+  "release": {
+    "noCi": true,
+    "verifyConditions": [
+      "@semantic-release/changelog",
+      "@semantic-release/npm",
+      "@semantic-release/git"
+    ]
   }
 }
