@@ -1,3 +1,15 @@
+# [2.0.0](https://github.com/jcowman2/test-release-workflow/compare/v1.2.0...v2.0.0) (2018-08-24)
+
+
+### Features
+
+* **index:** Adds some VERY COMPLICATED behavior to index.js ([6c5c233](https://github.com/jcowman2/test-release-workflow/commit/6c5c233))
+
+
+### BREAKING CHANGES
+
+* **index:** Your heart
+
 # [1.2.0](https://github.com/jcowman2/test-release-workflow/compare/v1.1.1...v1.2.0) (2018-08-24)
 
 
