@@ -1,4 +1,8 @@
 console.log("Hello, world!");
-// Test Comment
-console.log("Test");
+
+for (let i = 0; i < 2; i++) {
+    // Test Comment
+    console.log(`Test ${i}`);
+}
+
 console.log("Goodbye, world!");
