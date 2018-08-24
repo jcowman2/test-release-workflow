@@ -1,9 +1,10 @@
 # [2.0.0](https://github.com/jcowman2/test-release-workflow/compare/v1.2.0...v2.0.0) (2018-08-24)
 
+This is a sneaky description that I've added after the file has been generated.
 
 ### Features
 
-* **index:** Adds some VERY COMPLICATED behavior to index.js ([6c5c233](https://github.com/jcowman2/test-release-workflow/commit/6c5c233))
+* **index:** Adds some VERY COMPLICATED :fire: behavior to index.js ([6c5c233](https://github.com/jcowman2/test-release-workflow/commit/6c5c233))
 
 
 ### BREAKING CHANGES
