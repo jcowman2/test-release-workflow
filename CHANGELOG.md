@@ -1,3 +1,10 @@
+## [2.0.1](https://github.com/jcowman2/test-release-workflow/compare/v2.0.0...v2.0.1) (2018-08-24)
+
+
+### Bug Fixes
+
+* **readme:** Fix readme ([f4fef7f](https://github.com/jcowman2/test-release-workflow/commit/f4fef7f))
+
 # [2.0.0](https://github.com/jcowman2/test-release-workflow/compare/v1.2.0...v2.0.0) (2018-08-24)
 
 This is a sneaky description that I've added after the file has been generated.
