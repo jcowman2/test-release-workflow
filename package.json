@@ -1,6 +1,6 @@
 {
   "name": "@jcowman/test-release-workflow",
-  "version": "2.0.1",
+  "version": "2.0.2",
   "description": "Experimental package for testing a release workflow.",
   "main": "index.js",
   "scripts": {
