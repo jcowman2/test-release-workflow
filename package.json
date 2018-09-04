@@ -27,7 +27,10 @@
       "@semantic-release/git"
     ],
     "prepare": [
-      "@semantic-release/changelog",
+      {
+        "path": "@semantic-release/changelog",
+        "changelogTitle": "Test"
+      },
       "@semantic-release/npm",
       "@semantic-release/git"
     ]
