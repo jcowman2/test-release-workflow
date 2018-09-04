@@ -1,5 +1,12 @@
 Test
 
+# [2.1.0](https://github.com/jcowman2/test-release-workflow/compare/v2.0.2...v2.1.0) (2018-09-04)
+
+
+### Features
+
+* **foo:** Adds important file ([528f5ce](https://github.com/jcowman2/test-release-workflow/commit/528f5ce)), closes [#3](https://github.com/jcowman2/test-release-workflow/issues/3)
+
 ## [2.0.2](https://github.com/jcowman2/test-release-workflow/compare/v2.0.1...v2.0.2) (2018-09-04)
 
 
