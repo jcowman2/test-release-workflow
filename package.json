@@ -4,14 +4,16 @@
   "description": "Experimental package for testing a release workflow.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "mocha"
   },
   "author": "Joe Cowman <joe.r.cowman@gmail.com> (http://joecowman.com)",
   "license": "ISC",
   "devDependencies": {
     "@semantic-release/changelog": "^3.0.0",
     "@semantic-release/git": "^7.0.2",
+    "chai": "^4.1.2",
     "cz-conventional-changelog": "^2.1.0",
+    "mocha": "^5.2.0",
     "semantic-release": "^15.9.9"
   },
   "config": {
