@@ -1,5 +1,12 @@
 Test
 
+## [2.1.1](https://github.com/jcowman2/test-release-workflow/compare/v2.1.0...v2.1.1) (2018-09-06)
+
+
+### Bug Fixes
+
+* Fix one ([6f6d22f](https://github.com/jcowman2/test-release-workflow/commit/6f6d22f))
+
 # [2.1.0](https://github.com/jcowman2/test-release-workflow/compare/v2.0.2...v2.1.0) (2018-09-04)
 
 
