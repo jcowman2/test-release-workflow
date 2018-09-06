@@ -1,5 +1,7 @@
 # Test-Release-Workflow
 
+[![Build Status](https://travis-ci.org/jcowman2/test-release-workflow.svg?branch=master)](https://travis-ci.org/jcowman2/test-release-workflow)
+
 This repository serves as a playground for me to test my JavaScript release workflow.
 
 ## Features
